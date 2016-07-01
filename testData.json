@@ -1,0 +1,276 @@
+{
+    "status": "success",
+    "nodes": [
+        {
+            "category": 0,
+            "id": 0,
+            "symbolSize": 80,
+            "value": 150,
+            "name": "PCB压电传感器技术（北京）有限公司",
+            "shortName": "用户",
+            "shortMessage":"50万美金"
+        },{
+            "category": 0,
+            "id": 13,
+            "symbolSize": 80,
+            "value": 150,
+            "name": "PCB压电传感器技术（北京）有限公司",
+            "shortName": "产品",
+            "shortMessage":"50万美金"
+        },{
+            "category": 0,
+            "id": 14,
+            "symbolSize": 80,
+            "value": 150,
+            "name": "PCB压电传感器技术（北京）有限公司",
+            "shortName": "节目",
+            "shortMessage":"50万美金"
+        },
+        {
+            "category": 1,
+            "symbolSize": 50,
+            "id": 15,
+            "value": 50,
+            "name": "股东A",
+            "shortName": "基本信息",
+            "shortMessage":"是一个股东"
+            
+        },
+        {
+            "category": 1,
+            "symbolSize": 50,
+            "id": 16,
+            "value": 50,
+            "name": "股东A",
+            "shortName": "价值属性",
+            "shortMessage":"是一个股东"
+            
+        },{
+            "category": 1,
+            "symbolSize": 50,
+            "id": 17,
+            "value": 50,
+            "name": "股东A",
+            "shortName": "地理位置",
+            "shortMessage":"是一个股东"
+            
+        },{
+            "category": 1,
+            "symbolSize": 50,
+            "id": 18,
+            "value": 50,
+            "name": "股东A",
+            "shortName": "设备类型",
+            "shortMessage":"是一个股东"
+            
+        },{
+            "category": 1,
+            "symbolSize": 50,
+            "id": 19,
+            "value": 50,
+            "name": "股东A",
+            "shortName": "兴趣偏好",
+            "shortMessage":"是一个股东"
+            
+        },{
+            "category": 1,
+            "symbolSize": 50,
+            "id": 20,
+            "value": 50,
+            "name": "股东A",
+            "shortName": "消费偏好",
+            "shortMessage":"是一个股东"    
+        },{
+            "category": 1,
+            "symbolSize": 50,
+            "id": 21,
+            "value": 50,
+            "name": "股东A",
+            "shortName": "综合能力",
+            "shortMessage":"是一个股东"    
+        },{
+            "category": 2,
+            "symbolSize": 50,
+            "id": 22,
+            "value": 50,
+            "name": "股东A",
+            "shortName": "使用功能",
+            "shortMessage":"是一个股东"
+            
+        },{
+            "category": 2,
+            "symbolSize": 50,
+            "id": 23,
+            "value": 50,
+            "name": "股东A",
+            "shortName": "活跃时段",
+            "shortMessage":"是一个股东"
+            
+        },{
+            "category": 2,
+            "symbolSize": 50,
+            "id": 24,
+            "value": 50,
+            "name": "股东A",
+            "shortName": "活跃度",
+            "shortMessage":"是一个股东"    
+        },{
+            "category": 2,
+            "symbolSize": 50,
+            "id": 25,
+            "value": 50,
+            "name": "股东A",
+            "shortName": "套餐",
+            "shortMessage":"是一个股东"    
+        },{
+            "category": 3,
+            "symbolSize": 50,
+            "id": 26,
+            "value": 50,
+            "name": "股东A",
+            "shortName": "类型",
+            "shortMessage":"是一个股东"    
+        },{
+            "category": 3,
+            "symbolSize": 50,
+            "id": 27,
+            "value": 50,
+            "name": "股东A",
+            "shortName": "剧情",
+            "shortMessage":"是一个股东"
+            
+        },{
+            "category": 3,
+            "symbolSize": 50,
+            "id": 28,
+            "value": 50,
+            "name": "股东A",
+            "shortName": "主演",
+            "shortMessage":"是一个股东"
+            
+        },{
+            "category": 3,
+            "symbolSize": 50,
+            "id": 29,
+            "value": 50,
+            "name": "股东A",
+            "shortName": "导演",
+            "shortMessage":"是一个股东"    
+        },{
+            "category": 3,
+            "symbolSize": 50,
+            "id": 30,
+            "value": 50,
+            "name": "股东A",
+            "shortName": "出口方",
+            "shortMessage":"是一个股东"    
+        }
+    ],
+    "code": 0,
+    "category_list": [
+        "本体",
+        "标签",
+        "日志统计",
+        "属性"
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 13,
+            "remindingTxt":"remindingTxt可定制"
+        },
+        {
+            "source": 0,
+            "target": 15,
+            "remindingTxt":""
+        },
+        {
+            "source": 0,
+            "target": 16,
+            "remindingTxt":""
+        },
+        {
+            "source": 0,
+            "target": 17,
+            "remindingTxt":"remindingTxt可定制"
+        },
+        {
+            "source": 0,
+            "target": 18,
+            "remindingTxt":""
+        },
+        {
+            "source": 0,
+            "target": 19,
+            "remindingTxt":""
+        },
+        {
+            "source": 0,
+            "target": 20,
+            "remindingTxt":""
+        },
+        {
+            "source": 0,
+            "target": 14,
+            "remindingTxt":""
+        },
+        {
+            "source": 0,
+            "target": 21,
+            "remindingTxt":""
+        },
+        {
+            "source": 13,
+            "target": 14,
+            "remindingTxt":""
+        },
+        {
+            "source": 13,
+            "target": 22,
+            "remindingTxt":""
+        },
+        {
+            "source": 13,
+            "target": 23,
+            "remindingTxt":""
+        },
+        {
+            "source": 13,
+            "target": 24,
+            "remindingTxt":""
+        },
+        {
+            "source": 13,
+            "target": 25,
+            "remindingTxt":""
+        }
+        
+        
+        ,
+        {
+            "source": 14,
+            "target": 26,
+            "remindingTxt":""
+        },
+        {
+            "source": 14,
+            "target": 27,
+            "remindingTxt":""
+        },
+        {
+            "source": 14,
+            "target": 28,
+            "remindingTxt":""
+        },
+        {
+            "source": 14,
+            "target": 29,
+            "remindingTxt":""
+        },
+        {
+            "source": 14,
+            "target": 30,
+            "remindingTxt":""
+        }
+        ]   
+}

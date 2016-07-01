@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<title>echarts graph demo</title>
+		
+		<script src="jquery-1.11.0.js"></script>
+		<script src="echarts.min.js"></script>
+		
+
+		<style type="text/css">
+			#showChart {
+				background: #b2b2b2;
+				width: 150px;
+				text-align: center;
+				border-radius: 2px;
+				line-height: 2;
+				color: #ffffff;
+			}
+		</style>
+
+	</head>
+
+	<body>
+		
+
+		<div >
+			<div id="chartTest" style="float: left;width:100%;height: 900px;z-index: 222;"></div>
+			<div class="detail-info-div" style="display: none;z-index: 999;">
+				<div class="subInfoDiv">
+					<button class="closeBtn" onclick="closeDetailInfo()">CLOSE</button>
+					<p>公司信息</p>
+					<p class="detailTitle">PCB压电传感器技术（北京）有限公司</p>
+					<p style="margin-top: 25px;"><span class="detailInfoTableSub">法定代表人：</span><span class="detailInfoTableSubInfo">代表A</span></p>
+					<p><span class="detailInfoTableSub">注册资本：</span><span class="detailInfoTableSubInfo">50万美金</span></p>
+					
+				</div>
+			</div>
+		</div>
+
+	</body>
+
+	<script src="js.js"></script>
+
+</html>
